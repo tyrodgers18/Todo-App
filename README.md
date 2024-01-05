@@ -1,3 +1,4 @@
+**Todo App**
 Link to website: https://tyrodgers18.github.io/Todo-App/
 
 The purpose of this application is to provide users with a simple Todo app that allows users to create a list of todo items, 
